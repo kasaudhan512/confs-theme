@@ -1,11 +1,10 @@
 # Site settings
-title: My Blog
-email: coolwebconfs@gmail.com
-description: My simple blog.
-baseurl: ""
-url: ""
-twitter_username: 
-avatar: "" # Set footer avatar
+title: Welcome
+email: shubhamkasaudhan512@gmail.com
+description: Developer's Diary.
+baseurl: "/shubham-resume"
+twitter_username: kasaudhan512
+avatar: "https://pbs.twimg.com/profile_images/743074621281456128/D2G_g6HS.jpg" # Set footer avatar
 paginate: 3
 
 # Build settings
@@ -19,8 +18,8 @@ defaults:
       path: ""
       type: "posts"
     values:
-      author: "My Author" # Set default author name
-      categories: "cats"
+      author: "Shubham Kasaudhan" # Set default author name
+      categories: "resume"
       layout: "post"
       comments: true
   -
